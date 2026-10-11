@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pageObjects.AddEmployee;
 import pageObjects.Loginpage;
+import pageObjects.SearchEmployeeUsingName;
 
 
 import java.time.Duration;
@@ -40,16 +41,6 @@ public class Steps extends BaseClass {
         lp.clickLogIn();
 
     }
-/*
-    @And("check user is on dashboard")
-    public boolean check_user_is_on_dashboard() {
-        return ae.ds();
-    }
- */
-
-
-
-
 
     @Then("page title should be this {string}")
     public void page_title_should_be_this(String expectedTitle) throws InterruptedException {
@@ -85,12 +76,12 @@ public class Steps extends BaseClass {
     @Then("user switches to PIM")
     public void user_switches_to_pim() throws InterruptedException {
         ae=new AddEmployee(driver);
-
         ae.clickonpim();
     }
 
     @Then("click on add employee")
     public void click_on_add_employee() throws InterruptedException {
+        Thread.sleep(5000);
         ae.clickonaddemployees();
 
 
@@ -104,6 +95,7 @@ public class Steps extends BaseClass {
 
         ae.txtfirstname(Frtname);
         ae.txtlastname(Lstname);
+        Thread.sleep(5000);
 
     }
 
@@ -117,6 +109,31 @@ public class Steps extends BaseClass {
     public void user_can_view_confirmation_message(String expectedMessage) {
         String actualMessage = ae.statsuccessmssg();
         Assertions.assertTrue(actualMessage.contains(expectedMessage));
+    }
+
+
+    // steps  to search employee
+
+    @Then("enter employee name {string}")
+    public void enter_employee_name(String empname) {
+        se =new SearchEmployeeUsingName(driver);
+        se.setName(empname);
+    }
+
+    @Then("click on search")
+    public void click_on_search() throws InterruptedException {
+        se.clickSearch();
+        Thread.sleep(3000);
+    }
+
+    @Then("employee {string} found in search")
+    public void employee_found_in_search(String expname) {
+        boolean isFound = se.searchEmployeeByNameInTable(expname);
+        if (isFound) {
+            Assertions.assertTrue(true);
+        } else {
+            Assertions.fail("Employee '" + expname + "' was not found in the search results table!");
+        }
     }
 
 
