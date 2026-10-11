@@ -11,7 +11,7 @@ import static io.cucumber.junit.platform.engine.Constants.ANSI_COLORS_DISABLED_P
 
 @Suite
 @IncludeEngines("cucumber")
-@SelectFile("Features/Login.feature")
+@SelectFile("Features/Employee.feature")
 
 @ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "stepDefinitions")
 @ConfigurationParameter(key = PLUGIN_PROPERTY_NAME, value = "pretty,summary,html:test-output/cucumber-report.html")
