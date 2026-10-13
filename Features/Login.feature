@@ -1,5 +1,6 @@
 Feature: Login
 
+  @sanity
   Scenario: Successful login with valid credentials
 
     Given user launch chrome
@@ -12,6 +13,8 @@ Feature: Login
     Then page title should be this "OrangeHRM"
     And close  browser
 
+
+  @regression
   Scenario Outline: Login Data Driven
 
     Given user launch chrome

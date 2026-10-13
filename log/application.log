@@ -1,0 +1,123 @@
+2026-10-11 20:22:13 INFO  [main] (Steps.java:23) - *****************Launching Browser************
+2026-10-11 20:22:13 INFO  [main] (Steps.java:29) - *****************Launching URL************
+2026-10-11 20:22:23 INFO  [main] (Steps.java:37) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:22:24 INFO  [main] (Steps.java:44) - *****************CLICKING LOGIN************
+2026-10-11 20:22:24 INFO  [main] (Steps.java:85) - *****************CLICKING ON PIM************
+2026-10-11 20:22:28 INFO  [main] (Steps.java:92) - *****************CLICKING ON EMPLOYEE************
+2026-10-11 20:22:34 INFO  [main] (Steps.java:105) - *****************PROVIDING EMPLOYEE DATA************
+2026-10-11 20:22:40 INFO  [main] (Steps.java:115) - *****************SAVING EMPLOYEE************
+2026-10-11 20:22:41 INFO  [main] (Steps.java:122) - *****************CHECKING FOR CONFIRMATION MAESSAGE************
+2026-10-11 20:22:42 INFO  [main] (Steps.java:77) - *****************CLOSING BROWSER************
+2026-10-11 20:22:48 INFO  [main] (Steps.java:23) - *****************Launching Browser************
+2026-10-11 20:22:48 INFO  [main] (Steps.java:29) - *****************Launching URL************
+2026-10-11 20:22:59 INFO  [main] (Steps.java:37) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:23:01 INFO  [main] (Steps.java:44) - *****************CLICKING LOGIN************
+2026-10-11 20:23:02 INFO  [main] (Steps.java:85) - *****************CLICKING ON PIM************
+2026-10-11 20:23:05 INFO  [main] (Steps.java:132) - *****************SEARCH EMPLOYEE NAME************
+2026-10-11 20:23:07 INFO  [main] (Steps.java:139) - *****************CLICKING ON SEARCH************
+2026-10-11 20:23:22 INFO  [main] (Steps.java:151) - *****************SEARCH FAILED************
+2026-10-11 20:23:25 INFO  [main] (Steps.java:23) - *****************Launching Browser************
+2026-10-11 20:23:25 INFO  [main] (Steps.java:29) - *****************Launching URL************
+2026-10-11 20:23:36 INFO  [main] (Steps.java:37) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:23:37 INFO  [main] (Steps.java:44) - *****************CLICKING LOGIN************
+2026-10-11 20:23:37 INFO  [main] (Steps.java:85) - *****************CLICKING ON PIM************
+2026-10-11 20:23:43 INFO  [main] (Steps.java:159) - *****************SEARCH USING ID************
+2026-10-11 20:23:45 INFO  [main] (Steps.java:139) - *****************CLICKING ON SEARCH************
+2026-10-11 20:23:59 INFO  [main] (Steps.java:172) - *****************SEARCH FAILED************
+2026-10-11 20:24:02 INFO  [main] (Steps.java:23) - *****************Launching Browser************
+2026-10-11 20:24:02 INFO  [main] (Steps.java:29) - *****************Launching URL************
+2026-10-11 20:24:17 INFO  [main] (Steps.java:37) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:24:20 INFO  [main] (Steps.java:44) - *****************CLICKING LOGIN************
+2026-10-11 20:24:48 INFO  [main] (Steps.java:61) - *****************LOGIN SUCCESS************
+2026-10-11 20:24:48 INFO  [main] (Steps.java:70) - *****************LOGGING OUT************
+2026-10-11 20:25:13 INFO  [main] (Steps.java:61) - *****************LOGIN SUCCESS************
+2026-10-11 20:25:13 INFO  [main] (Steps.java:77) - *****************CLOSING BROWSER************
+2026-10-11 20:25:16 INFO  [main] (Steps.java:23) - *****************Launching Browser************
+2026-10-11 20:25:16 INFO  [main] (Steps.java:29) - *****************Launching URL************
+2026-10-11 20:25:37 INFO  [main] (Steps.java:37) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:25:38 INFO  [main] (Steps.java:44) - *****************CLICKING LOGIN************
+2026-10-11 20:26:01 INFO  [main] (Steps.java:61) - *****************LOGIN SUCCESS************
+2026-10-11 20:26:01 INFO  [main] (Steps.java:70) - *****************LOGGING OUT************
+2026-10-11 20:26:26 INFO  [main] (Steps.java:61) - *****************LOGIN SUCCESS************
+2026-10-11 20:26:26 INFO  [main] (Steps.java:77) - *****************CLOSING BROWSER************
+2026-10-11 20:26:29 INFO  [main] (Steps.java:23) - *****************Launching Browser************
+2026-10-11 20:26:29 INFO  [main] (Steps.java:29) - *****************Launching URL************
+2026-10-11 20:26:37 INFO  [main] (Steps.java:37) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:26:39 INFO  [main] (Steps.java:44) - *****************CLICKING LOGIN************
+2026-10-11 20:26:44 INFO  [main] (Steps.java:57) - *****************LOGIN FAILED************
+2026-10-11 20:52:58 INFO  [main] (Steps.java:44) - ***** Initializing browser: edge *****
+2026-10-11 20:53:12 INFO  [main] (Steps.java:60) - *****************Launching URL************
+2026-10-11 20:53:25 INFO  [main] (Steps.java:68) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:53:26 INFO  [main] (Steps.java:75) - *****************CLICKING LOGIN************
+2026-10-11 20:53:37 INFO  [main] (Steps.java:92) - *****************LOGIN SUCCESS************
+2026-10-11 20:53:37 INFO  [main] (Steps.java:101) - *****************LOGGING OUT************
+2026-10-11 20:53:47 INFO  [main] (Steps.java:92) - *****************LOGIN SUCCESS************
+2026-10-11 20:53:47 INFO  [main] (Steps.java:108) - *****************CLOSING BROWSER************
+2026-10-11 20:53:52 INFO  [main] (Steps.java:44) - ***** Initializing browser: edge *****
+2026-10-11 20:53:56 INFO  [main] (Steps.java:60) - *****************Launching URL************
+2026-10-11 20:54:03 INFO  [main] (Steps.java:68) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:54:08 INFO  [main] (Steps.java:44) - ***** Initializing browser: edge *****
+2026-10-11 20:54:13 INFO  [main] (Steps.java:60) - *****************Launching URL************
+2026-10-11 20:54:26 INFO  [main] (Steps.java:68) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:56:41 INFO  [main] (Steps.java:44) - ***** Initializing browser: edge *****
+2026-10-11 20:56:58 INFO  [main] (Steps.java:44) - ***** Initializing browser: edge *****
+2026-10-11 20:57:04 INFO  [main] (Steps.java:60) - *****************Launching URL************
+2026-10-11 20:57:17 INFO  [main] (Steps.java:68) - *****************PROVIDING USER DETAILS************
+2026-10-11 20:57:23 INFO  [main] (Steps.java:44) - ***** Initializing browser: edge *****
+2026-10-11 20:57:32 INFO  [main] (Steps.java:60) - *****************Launching URL************
+2026-10-11 20:57:45 INFO  [main] (Steps.java:68) - *****************PROVIDING USER DETAILS************
+2026-10-11 21:06:53 INFO  [main] (Steps.java:34) - ***** Initializing browser: edge *****
+2026-10-11 21:06:58 INFO  [main] (Steps.java:55) - *****************Launching URL************
+2026-10-11 21:07:28 INFO  [main] (Steps.java:63) - *****************PROVIDING USER DETAILS************
+2026-10-11 21:07:29 INFO  [main] (Steps.java:70) - *****************CLICKING LOGIN************
+2026-10-11 21:07:54 INFO  [main] (Steps.java:87) - *****************LOGIN SUCCESS************
+2026-10-11 21:07:55 INFO  [main] (Steps.java:96) - *****************LOGGING OUT************
+2026-10-11 21:08:19 INFO  [main] (Steps.java:87) - *****************LOGIN SUCCESS************
+2026-10-11 21:08:19 INFO  [main] (Steps.java:103) - *****************CLOSING BROWSER************
+2026-10-11 21:08:20 INFO  [main] (Steps.java:34) - ***** Initializing browser: edge *****
+2026-10-11 21:08:24 INFO  [main] (Steps.java:55) - *****************Launching URL************
+2026-10-11 21:11:33 INFO  [main] (Steps.java:34) - ***** Initializing browser: evdfb *****
+2026-10-11 21:11:33 ERROR [main] (Steps.java:46) - Invalid browser specified in config.properties: 'evdfb'. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:11:33 INFO  [main] (Steps.java:34) - ***** Initializing browser: evdfb *****
+2026-10-11 21:11:33 ERROR [main] (Steps.java:46) - Invalid browser specified in config.properties: 'evdfb'. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:11:33 INFO  [main] (Steps.java:34) - ***** Initializing browser: evdfb *****
+2026-10-11 21:11:33 ERROR [main] (Steps.java:46) - Invalid browser specified in config.properties: 'evdfb'. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:12:27 INFO  [main] (Steps.java:34) - ***** Initializing browser:  *****
+2026-10-11 21:12:27 ERROR [main] (Steps.java:46) - Invalid browser specified in config.properties: ''. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:12:27 INFO  [main] (Steps.java:34) - ***** Initializing browser:  *****
+2026-10-11 21:12:27 ERROR [main] (Steps.java:46) - Invalid browser specified in config.properties: ''. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:12:27 INFO  [main] (Steps.java:34) - ***** Initializing browser:  *****
+2026-10-11 21:12:27 ERROR [main] (Steps.java:46) - Invalid browser specified in config.properties: ''. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:12:49 INFO  [main] (Steps.java:34) - ***** Initializing browser: chrome *****
+2026-10-11 21:12:56 INFO  [main] (Steps.java:43) - ***** Chrome Browser Launched *****
+2026-10-11 21:12:56 INFO  [main] (Steps.java:59) - *****************Launching URL************
+2026-10-11 21:12:57 INFO  [main] (Steps.java:34) - ***** Initializing browser: chrome *****
+2026-10-11 22:40:05 INFO  [main] (Steps.java:34) - ***** Initializing browser: chrome *****
+2026-10-11 22:40:14 INFO  [main] (Steps.java:43) - ***** Chrome Browser Launched *****
+2026-10-11 22:40:14 INFO  [main] (Steps.java:59) - *****************Launching URL************
+2026-10-11 22:40:21 INFO  [main] (Steps.java:67) - *****************PROVIDING USER DETAILS************
+2026-10-11 22:40:23 INFO  [main] (Steps.java:74) - *****************CLICKING LOGIN************
+2026-10-11 22:40:47 INFO  [main] (Steps.java:91) - *****************LOGIN SUCCESS************
+2026-10-11 22:40:47 INFO  [main] (Steps.java:100) - *****************LOGGING OUT************
+2026-10-11 22:41:11 INFO  [main] (Steps.java:91) - *****************LOGIN SUCCESS************
+2026-10-11 22:41:11 INFO  [main] (Steps.java:107) - *****************CLOSING BROWSER************
+2026-10-11 22:42:05 INFO  [main] (Steps.java:34) - ***** Initializing browser: chrome *****
+2026-10-11 22:42:10 INFO  [main] (Steps.java:43) - ***** Chrome Browser Launched *****
+2026-10-11 22:42:10 INFO  [main] (Steps.java:59) - *****************Launching URL************
+2026-10-11 22:42:21 INFO  [main] (Steps.java:67) - *****************PROVIDING USER DETAILS************
+2026-10-11 22:42:22 INFO  [main] (Steps.java:74) - *****************CLICKING LOGIN************
+2026-10-11 22:42:22 INFO  [main] (Steps.java:115) - *****************CLICKING ON PIM************
+2026-10-11 22:42:27 INFO  [main] (Steps.java:122) - *****************CLICKING ON EMPLOYEE************
+2026-10-11 22:42:32 INFO  [main] (Steps.java:135) - *****************PROVIDING EMPLOYEE DATA************
+2026-10-11 22:42:38 INFO  [main] (Steps.java:145) - *****************SAVING EMPLOYEE************
+2026-10-11 22:42:38 INFO  [main] (Steps.java:152) - *****************CHECKING FOR CONFIRMATION MAESSAGE************
+2026-10-11 22:42:40 INFO  [main] (Steps.java:107) - *****************CLOSING BROWSER************
+2026-10-11 22:42:42 INFO  [main] (Steps.java:34) - ***** Initializing browser: chrome *****
+2026-10-11 22:42:45 INFO  [main] (Steps.java:43) - ***** Chrome Browser Launched *****
+2026-10-11 22:42:45 INFO  [main] (Steps.java:59) - *****************Launching URL************
+2026-10-11 22:42:56 INFO  [main] (Steps.java:67) - *****************PROVIDING USER DETAILS************
+2026-10-11 22:42:58 INFO  [main] (Steps.java:74) - *****************CLICKING LOGIN************
+2026-10-11 22:43:23 INFO  [main] (Steps.java:91) - *****************LOGIN SUCCESS************
+2026-10-11 22:43:24 INFO  [main] (Steps.java:100) - *****************LOGGING OUT************
+2026-10-11 22:43:49 INFO  [main] (Steps.java:91) - *****************LOGIN SUCCESS************
+2026-10-11 22:43:49 INFO  [main] (Steps.java:107) - *****************CLOSING BROWSER************

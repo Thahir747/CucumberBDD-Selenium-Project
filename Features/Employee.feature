@@ -1,29 +1,31 @@
 Feature: Adding Employee
 
-  Scenario: Add new Employee
-
+  Background: common steps for every scenarios
     Given user launch chrome
     When user open url "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
     And user enters username "Admin" and password as "admin123"
     And click on login
-
-
     Then user switches to PIM
+
+  @sanity
+  Scenario: Add new Employee
     And click on add employee
     And provide FirstName and lastName
     When click on save
     Then User can view confirmation message "Success"
     And close  browser
 
-
+  @regression
   Scenario: Search Employee by Name
-
-    Given user launch chrome
-    When user open url "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
-    And user enters username "Admin" and password as "admin123"
-    And click on login
-    When user switches to PIM
-    Then enter employee name "Auto"
+    Then enter employee name "femtha"
     And click on search
-    Then employee "Auto" found in search
+    Then employee "femtha" found in search
+    And close  browser
+
+    #77066
+  @regression
+  Scenario: Search Employee by ID
+    Then enter employee ID "77066"
+    And click on search
+    Then employee ID "77066" found in search
     And close  browser

@@ -51,6 +51,7 @@ public class SearchEmployeeUsingName {
         txtname.sendKeys(name);
     }
 
+
     public void setId(String id) {
 
         hp.WaitForElement(employeeId,10);
@@ -80,6 +81,32 @@ public class SearchEmployeeUsingName {
             if (cells.size() >= 3) {
                 String actualName = cells.get(2).getText().trim().toLowerCase();
                 if (actualName.contains(expectedName.trim().toLowerCase())) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+
+
+    public boolean searchEmployeeByIDInTable(String expid) {
+        hp.WaitForElement(tableBody, 10);
+
+        // Get all matching rows in the table body
+        List<WebElement> rows = driver.findElements(rowCards);
+
+        // If no records found card is shown or list is empty
+        if (rows.isEmpty()) {
+            return false;
+        }
+
+        for (WebElement row : rows) {
+            List<WebElement> cells = row.findElements(By.xpath(".//div[@role='cell']"));
+            // Column 3 contains First & Middle Name
+            if (cells.size() >= 2) {
+                String actualId = cells.get(1).getText().trim();
+                if (actualId.equalsIgnoreCase(expid.trim())) {
                     return true;
                 }
             }

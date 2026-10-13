@@ -1,0 +1,164 @@
+2026-10-11 19:34:30 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 19:34:30 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 19:34:44 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 19:34:46 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 19:34:49 INFO  [main] BaseClass - *****************CLICKING ON EMPLOYEE************
+2026-10-11 19:34:59 INFO  [main] BaseClass - *****************PROVIDING EMPLOYEE DATA************
+2026-10-11 19:35:05 INFO  [main] BaseClass - *****************SAVING EMPLOYEE************
+2026-10-11 19:35:07 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 19:35:10 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 19:35:10 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 19:35:19 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 19:35:21 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 19:35:21 INFO  [main] BaseClass - *****************CLICKING ON EMPLOYEE************
+2026-10-11 19:35:29 INFO  [main] BaseClass - *****************SEARCH EMPLOYEE NAME************
+2026-10-11 19:35:44 INFO  [main] BaseClass - *****************SEARCH FAILED************
+2026-10-11 19:35:48 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 19:35:48 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 19:35:59 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 19:36:00 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 19:36:00 INFO  [main] BaseClass - *****************CLICKING ON EMPLOYEE************
+2026-10-11 19:36:07 INFO  [main] BaseClass - *****************SEARCH USING ID************
+2026-10-11 19:36:21 INFO  [main] BaseClass - *****************SEARCH FAILED************
+2026-10-11 19:36:25 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 19:36:25 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 19:36:43 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 19:36:44 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 19:37:12 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 19:37:36 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 19:37:36 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 19:37:39 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 19:37:39 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 19:37:46 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 19:37:48 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 19:38:11 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 19:38:36 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 19:38:36 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 19:38:40 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 19:38:40 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 19:38:47 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 19:38:50 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 19:38:57 INFO  [main] BaseClass - *****************LOGIN FAILED************
+2026-10-11 20:22:13 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 20:22:13 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:22:23 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:22:24 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 20:22:24 INFO  [main] BaseClass - *****************CLICKING ON PIM************
+2026-10-11 20:22:28 INFO  [main] BaseClass - *****************CLICKING ON EMPLOYEE************
+2026-10-11 20:22:34 INFO  [main] BaseClass - *****************PROVIDING EMPLOYEE DATA************
+2026-10-11 20:22:40 INFO  [main] BaseClass - *****************SAVING EMPLOYEE************
+2026-10-11 20:22:41 INFO  [main] BaseClass - *****************CHECKING FOR CONFIRMATION MAESSAGE************
+2026-10-11 20:22:42 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 20:22:48 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 20:22:48 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:22:59 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:23:01 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 20:23:02 INFO  [main] BaseClass - *****************CLICKING ON PIM************
+2026-10-11 20:23:05 INFO  [main] BaseClass - *****************SEARCH EMPLOYEE NAME************
+2026-10-11 20:23:07 INFO  [main] BaseClass - *****************CLICKING ON SEARCH************
+2026-10-11 20:23:22 INFO  [main] BaseClass - *****************SEARCH FAILED************
+2026-10-11 20:23:25 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 20:23:25 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:23:36 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:23:37 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 20:23:37 INFO  [main] BaseClass - *****************CLICKING ON PIM************
+2026-10-11 20:23:43 INFO  [main] BaseClass - *****************SEARCH USING ID************
+2026-10-11 20:23:45 INFO  [main] BaseClass - *****************CLICKING ON SEARCH************
+2026-10-11 20:23:59 INFO  [main] BaseClass - *****************SEARCH FAILED************
+2026-10-11 20:24:02 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 20:24:02 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:24:17 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:24:20 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 20:24:48 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 20:24:48 INFO  [main] BaseClass - *****************LOGGING OUT************
+2026-10-11 20:25:13 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 20:25:13 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 20:25:16 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 20:25:16 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:25:37 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:25:38 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 20:26:01 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 20:26:01 INFO  [main] BaseClass - *****************LOGGING OUT************
+2026-10-11 20:26:26 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 20:26:26 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 20:26:29 INFO  [main] BaseClass - *****************Launching Browser************
+2026-10-11 20:26:29 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:26:37 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:26:39 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 20:26:44 INFO  [main] BaseClass - *****************LOGIN FAILED************
+2026-10-11 20:52:58 INFO  [main] BaseClass - ***** Initializing browser: edge *****
+2026-10-11 20:53:12 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:53:25 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:53:26 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 20:53:37 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 20:53:37 INFO  [main] BaseClass - *****************LOGGING OUT************
+2026-10-11 20:53:47 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 20:53:47 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 20:53:52 INFO  [main] BaseClass - ***** Initializing browser: edge *****
+2026-10-11 20:53:56 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:54:03 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:54:08 INFO  [main] BaseClass - ***** Initializing browser: edge *****
+2026-10-11 20:54:13 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:54:26 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:56:41 INFO  [main] BaseClass - ***** Initializing browser: edge *****
+2026-10-11 20:56:58 INFO  [main] BaseClass - ***** Initializing browser: edge *****
+2026-10-11 20:57:04 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:57:17 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 20:57:23 INFO  [main] BaseClass - ***** Initializing browser: edge *****
+2026-10-11 20:57:32 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 20:57:45 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 21:06:53 INFO  [main] BaseClass - ***** Initializing browser: edge *****
+2026-10-11 21:06:58 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 21:07:28 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 21:07:29 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 21:07:54 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 21:07:55 INFO  [main] BaseClass - *****************LOGGING OUT************
+2026-10-11 21:08:19 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 21:08:19 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 21:08:20 INFO  [main] BaseClass - ***** Initializing browser: edge *****
+2026-10-11 21:08:24 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 21:11:33 INFO  [main] BaseClass - ***** Initializing browser: evdfb *****
+2026-10-11 21:11:33 ERROR [main] BaseClass - Invalid browser specified in config.properties: 'evdfb'. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:11:33 INFO  [main] BaseClass - ***** Initializing browser: evdfb *****
+2026-10-11 21:11:33 ERROR [main] BaseClass - Invalid browser specified in config.properties: 'evdfb'. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:11:33 INFO  [main] BaseClass - ***** Initializing browser: evdfb *****
+2026-10-11 21:11:33 ERROR [main] BaseClass - Invalid browser specified in config.properties: 'evdfb'. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:12:27 INFO  [main] BaseClass - ***** Initializing browser:  *****
+2026-10-11 21:12:27 ERROR [main] BaseClass - Invalid browser specified in config.properties: ''. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:12:27 INFO  [main] BaseClass - ***** Initializing browser:  *****
+2026-10-11 21:12:27 ERROR [main] BaseClass - Invalid browser specified in config.properties: ''. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:12:27 INFO  [main] BaseClass - ***** Initializing browser:  *****
+2026-10-11 21:12:27 ERROR [main] BaseClass - Invalid browser specified in config.properties: ''. Supported values are 'chrome' or 'edge'.
+2026-10-11 21:12:49 INFO  [main] BaseClass - ***** Initializing browser: chrome *****
+2026-10-11 21:12:56 INFO  [main] BaseClass - ***** Chrome Browser Launched *****
+2026-10-11 21:12:56 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 21:12:57 INFO  [main] BaseClass - ***** Initializing browser: chrome *****
+2026-10-11 22:40:05 INFO  [main] BaseClass - ***** Initializing browser: chrome *****
+2026-10-11 22:40:14 INFO  [main] BaseClass - ***** Chrome Browser Launched *****
+2026-10-11 22:40:14 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 22:40:21 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 22:40:23 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 22:40:47 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 22:40:47 INFO  [main] BaseClass - *****************LOGGING OUT************
+2026-10-11 22:41:11 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 22:41:11 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 22:42:05 INFO  [main] BaseClass - ***** Initializing browser: chrome *****
+2026-10-11 22:42:10 INFO  [main] BaseClass - ***** Chrome Browser Launched *****
+2026-10-11 22:42:10 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 22:42:21 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 22:42:22 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 22:42:22 INFO  [main] BaseClass - *****************CLICKING ON PIM************
+2026-10-11 22:42:27 INFO  [main] BaseClass - *****************CLICKING ON EMPLOYEE************
+2026-10-11 22:42:32 INFO  [main] BaseClass - *****************PROVIDING EMPLOYEE DATA************
+2026-10-11 22:42:38 INFO  [main] BaseClass - *****************SAVING EMPLOYEE************
+2026-10-11 22:42:38 INFO  [main] BaseClass - *****************CHECKING FOR CONFIRMATION MAESSAGE************
+2026-10-11 22:42:40 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-11 22:42:42 INFO  [main] BaseClass - ***** Initializing browser: chrome *****
+2026-10-11 22:42:45 INFO  [main] BaseClass - ***** Chrome Browser Launched *****
+2026-10-11 22:42:45 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-11 22:42:56 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-11 22:42:58 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-11 22:43:23 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 22:43:24 INFO  [main] BaseClass - *****************LOGGING OUT************
+2026-10-11 22:43:49 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-11 22:43:49 INFO  [main] BaseClass - *****************CLOSING BROWSER************
