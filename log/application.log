@@ -155,3 +155,23 @@
 2026-10-13 23:35:12 INFO  [main] (Steps.java:67) - *****************PROVIDING USER DETAILS************
 2026-10-13 23:35:13 INFO  [main] (Steps.java:74) - *****************CLICKING LOGIN************
 2026-10-13 23:35:28 INFO  [main] (Steps.java:91) - *****************LOGIN SUCCESS************
+2026-10-15 22:35:32 INFO  [main] (Steps.java:34) - ***** Initializing browser: chrome *****
+2026-10-15 22:36:07 INFO  [main] (Steps.java:43) - ***** Chrome Browser Launched *****
+2026-10-15 22:36:07 INFO  [main] (Steps.java:59) - *****************Launching URL************
+2026-10-15 22:36:18 INFO  [main] (Steps.java:67) - *****************PROVIDING USER DETAILS************
+2026-10-15 22:36:20 INFO  [main] (Steps.java:74) - *****************CLICKING LOGIN************
+2026-10-15 22:36:21 INFO  [main] (Steps.java:115) - *****************CLICKING ON PIM************
+2026-10-15 22:36:28 INFO  [main] (Steps.java:122) - *****************CLICKING ON EMPLOYEE************
+2026-10-15 22:36:33 INFO  [main] (Steps.java:135) - *****************PROVIDING EMPLOYEE DATA************
+2026-10-15 22:36:39 INFO  [main] (Steps.java:145) - *****************SAVING EMPLOYEE************
+2026-10-15 22:36:39 INFO  [main] (Steps.java:152) - *****************CHECKING FOR CONFIRMATION MAESSAGE************
+2026-10-15 22:36:42 INFO  [main] (Steps.java:107) - *****************CLOSING BROWSER************
+2026-10-15 22:36:45 INFO  [main] (Steps.java:34) - ***** Initializing browser: chrome *****
+2026-10-15 22:36:47 INFO  [main] (Steps.java:43) - ***** Chrome Browser Launched *****
+2026-10-15 22:36:47 INFO  [main] (Steps.java:59) - *****************Launching URL************
+2026-10-15 22:37:28 INFO  [main] (Steps.java:67) - *****************PROVIDING USER DETAILS************
+2026-10-15 22:37:29 INFO  [main] (Steps.java:74) - *****************CLICKING LOGIN************
+2026-10-15 22:37:52 INFO  [main] (Steps.java:91) - *****************LOGIN SUCCESS************
+2026-10-15 22:37:52 INFO  [main] (Steps.java:100) - *****************LOGGING OUT************
+2026-10-15 22:38:17 INFO  [main] (Steps.java:91) - *****************LOGIN SUCCESS************
+2026-10-15 22:38:17 INFO  [main] (Steps.java:107) - *****************CLOSING BROWSER************

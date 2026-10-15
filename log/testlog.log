@@ -196,3 +196,23 @@
 2026-10-13 23:35:12 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
 2026-10-13 23:35:13 INFO  [main] BaseClass - *****************CLICKING LOGIN************
 2026-10-13 23:35:28 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-15 22:35:32 INFO  [main] BaseClass - ***** Initializing browser: chrome *****
+2026-10-15 22:36:07 INFO  [main] BaseClass - ***** Chrome Browser Launched *****
+2026-10-15 22:36:07 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-15 22:36:18 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-15 22:36:20 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-15 22:36:21 INFO  [main] BaseClass - *****************CLICKING ON PIM************
+2026-10-15 22:36:28 INFO  [main] BaseClass - *****************CLICKING ON EMPLOYEE************
+2026-10-15 22:36:33 INFO  [main] BaseClass - *****************PROVIDING EMPLOYEE DATA************
+2026-10-15 22:36:39 INFO  [main] BaseClass - *****************SAVING EMPLOYEE************
+2026-10-15 22:36:39 INFO  [main] BaseClass - *****************CHECKING FOR CONFIRMATION MAESSAGE************
+2026-10-15 22:36:42 INFO  [main] BaseClass - *****************CLOSING BROWSER************
+2026-10-15 22:36:45 INFO  [main] BaseClass - ***** Initializing browser: chrome *****
+2026-10-15 22:36:47 INFO  [main] BaseClass - ***** Chrome Browser Launched *****
+2026-10-15 22:36:47 INFO  [main] BaseClass - *****************Launching URL************
+2026-10-15 22:37:28 INFO  [main] BaseClass - *****************PROVIDING USER DETAILS************
+2026-10-15 22:37:29 INFO  [main] BaseClass - *****************CLICKING LOGIN************
+2026-10-15 22:37:52 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-15 22:37:52 INFO  [main] BaseClass - *****************LOGGING OUT************
+2026-10-15 22:38:17 INFO  [main] BaseClass - *****************LOGIN SUCCESS************
+2026-10-15 22:38:17 INFO  [main] BaseClass - *****************CLOSING BROWSER************
